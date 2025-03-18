@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@theme {
+  --spacing-container: 1170px;
+
+  --color-blue: #5956e8;
+  --color-black: #181818;
+  --color-hwhite: #fffefe;
+
+  --font-inter: "Inter", "sans-serif";
+}
