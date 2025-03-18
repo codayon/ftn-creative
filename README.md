@@ -9,3 +9,5 @@ This is a project made solely made for educational purposes. Using Figma, Tailwi
 2. tailwind css v4: [cli](https://tailwindcss.com/docs/installation/tailwind-cli)
 
 3. nodejs v22.14-lts: [npm](https://www.npmjs.com/)
+
+# NOTE: I STRONGLY CONDEMN USING PICTURES OF LIVING CREATURES
