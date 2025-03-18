@@ -9,19 +9,3 @@ This is a project made solely made for educational purposes. Using Figma, Tailwi
 2. tailwind css v4: [cli](https://tailwindcss.com/docs/installation/tailwind-cli)
 
 3. nodejs v22.14-lts: [npm](https://www.npmjs.com/)
-
-## font
-
-```
-font-family: "Inter", sans-serif;
-```
-
-## color
-
-main: `#5956E8`
-
-font black: `#FFFEFE`
-
-font white: `#181818`
-
-font blue: `#5956E8`
