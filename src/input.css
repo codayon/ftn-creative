@@ -5,7 +5,10 @@
 
   --color-blue: #5956e8;
   --color-black: #181818;
+  --color-stroke: #E3E3E3;
   --color-hwhite: #fffefe;
 
   --font-inter: "Inter", "sans-serif";
+
+  --shadow-matic: 0px 0px 5px 0px rgba(219,219,219,1);
 }
