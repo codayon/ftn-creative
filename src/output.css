@@ -8,6 +8,7 @@
       "Courier New", monospace;
     --color-black: #181818;
     --color-white: #fff;
+    --spacing: 0.25rem;
     --font-weight-medium: 500;
     --font-weight-bold: 700;
     --default-transition-duration: 150ms;
@@ -215,6 +216,15 @@
   .justify-between {
     justify-content: space-between;
   }
+  .gap-y-5 {
+    row-gap: calc(var(--spacing) * 5);
+  }
+  .gap-y-6 {
+    row-gap: calc(var(--spacing) * 6);
+  }
+  .gap-y-7 {
+    row-gap: calc(var(--spacing) * 7);
+  }
   .rounded-\[10px\] {
     border-radius: 10px;
   }
@@ -272,6 +282,9 @@
   }
   .pb-\[41px\] {
     padding-bottom: 41px;
+  }
+  .pb-\[50px\] {
+    padding-bottom: 50px;
   }
   .pb-\[60px\] {
     padding-bottom: 60px;
@@ -350,10 +363,6 @@
   .duration-300 {
     --tw-duration: 300ms;
     transition-duration: 300ms;
-  }
-  .duration-500 {
-    --tw-duration: 500ms;
-    transition-duration: 500ms;
   }
   .ease-linear {
     --tw-ease: linear;
