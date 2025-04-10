@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@theme {
+  --spacing-container: 1170px;
+
+  --color-bluea: #5956e8;
+  --color-blacka: #181818;
+  --color-stroke: #e3e3e3;
+  --color-whitea: #fffefe;
+
+  --font-inter: 'Inter', 'sans-serif';
+
+  --shadow-matic: 0px 0px 15px 5px rgba(227, 227, 227, 0.75);
+  --shadow-batic: 0px 3px 5px 0px rgba(0, 0, 0, 0.25);
+}
